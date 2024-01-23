@@ -11,7 +11,7 @@ function About() {
   </p>
 
 <p className="content is-weak">
-    I enjoy trying new things and learning new skills. 
+    I joined this coding boot camp because I enjoy trying new things and learning new skills. I am hoping that when we complete this course i will be able to confidently create full stack applications.
 </p>
 
 
