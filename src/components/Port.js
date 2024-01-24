@@ -30,6 +30,8 @@ function Port() {
     return (
         <div>
             <p className=" content is-strong">Joshy's Port</p>
+            <hr />
+                <Project projects={projects} />
         </div>
     );
 }
