@@ -25,4 +25,14 @@ const projects = [
 
 ];
 
+
+function Port() {
+    return (
+        <div>
+            <p className=" content is-strong">Joshy's Port</p>
+        </div>
+    );
+}
+
+
 export default Port;
