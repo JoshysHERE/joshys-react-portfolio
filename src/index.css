@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkgreen
+    
+}
+
+.navbar, .navbar-brand {
+    text-align: center;
+    background-color: white;
+    color: darkgreen;
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+    width: 100%;
+
+}
+
+div.navbar-brand {
+    margin-bottom: 3em;
+    padding-top: 3em;
+    
+}
+
+.navbar .navbar-brand > .navbar-item,
+.navbar .navbar-brand .navbar-link {
+  display: inline-block;
+}
+
+.my-photo {
+  width: 250px;
+}
+
+.label {
+  text-align: left;
+}
+
+footer.footer {
+  background-color: black;
+}

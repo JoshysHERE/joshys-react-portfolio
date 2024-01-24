@@ -5,7 +5,7 @@ function About() {
   <div>
 <p className="content is strong">Diehard Philadelphia Eagles Fan and soon to be a Full Stack Web Dev!</p>
  <hr/>
-  <img className="my-pic"></img>
+  <img className="my-photo"></img>
   <p className="content is-medium mt-4">
     Welcome to my Portfolio! My name is Josh Soto. I am currently a produce manager employed at Whole Foods Market. I'm looking to become a full stack web dev one day really soon. Thanks for stopping bye for a visit! Go BIRDS!
   </p>
